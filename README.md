@@ -1,3 +1,3 @@
 # DownloadImage
 
-A description of this package.
+A simple library to dwonbload image from URL with cache.
