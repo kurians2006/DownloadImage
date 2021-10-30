@@ -2,7 +2,7 @@
 import Foundation
 import  UIKit
 
-public  class NetworkManager {
+public  class ImageDownloader {
 
     public init() {
         
