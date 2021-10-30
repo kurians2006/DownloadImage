@@ -8,6 +8,7 @@ public  class ImageDownloader {
         
     }
     
+    public static let shared = ImageDownloader()
     public var imageCache = NSCache<NSURL,AnyObject>()
 
     
